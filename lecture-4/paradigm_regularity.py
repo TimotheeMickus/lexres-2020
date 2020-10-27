@@ -3,11 +3,6 @@ import numpy as np
 import pandas as pd
 import scipy.stats
 
-def cos_dist(vec1, vec2):
-  return 
-  
-def euclidean_dist(vec1, vec2):
-  return 
 
 if __name__=="__main__":
   import argparse
